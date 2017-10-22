@@ -1,9 +1,11 @@
 # LandSim
 Simulate animals behaviors using finite-state machine.
 
+http://landsim.sardinefish.com/ 
+
 ###  !!!  Chrome ONLY !!! 
 
-#### e.g. 
+#### Browser support 
 
 - ##### Chrome 61+ 
 
